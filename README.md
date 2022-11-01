@@ -51,7 +51,7 @@
 <a href='mailto:simonroope@gmail.com'><img src="https://img.shields.io/badge/email-EEEEEE?style=for-the-badge&logo=email&logoColor=EA4335" alt="email"/> </a>
 
 <!--
-**nebzila/nebzila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**simonroope/simonroope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
