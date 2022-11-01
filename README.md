@@ -28,8 +28,8 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/koa-EEEEEE?style=for-the-badge&logo=koa&logoColor=000000" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/koa-EEEEEE?style=for-the-badge&logo=koa&logoColor=000000" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
@@ -54,6 +54,8 @@
 
 <!--
 **simonroope/simonroope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+https://dev.to/envoy_/150-badges-for-github-pnk#database
 
 Here are some ideas to get you started:
 
