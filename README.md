@@ -1,9 +1,6 @@
-### Hi there 👋
-<h1 align="center">Thanks for stopping by!</h1>
-
-- 🌍 I'm based in London
-
-<h1 align="center">Technologies<br><img src="https://media.tenor.com/IESk2X7FqlEAAAAj/windows-xp-loading.gif" width="70"/></h1>
+<h1 align="center">Technologies<br>
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="70"/>
+</h1>
 
 **Programming languages**
 
