@@ -55,6 +55,7 @@
 **AI**
 <p>
    <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff"/>
+   <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"/>
    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
    <img src="https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=langchain&logoColor=green"/>
 </p>
